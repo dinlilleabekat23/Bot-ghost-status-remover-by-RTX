@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["Ulu önder Fethullah Gülen👑","Darbe planlar hazırlanıyor📝","Ne Mutlu Gülenciyim Diyene🫡","Hizmetizm❤️","Pensilvanya📍"];
 
 
 let currentIndex = 0;
